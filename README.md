@@ -1,5 +1,9 @@
 # GoogleCalendarLite 2.0
 
+## Quick Look
+<img src="https://github.com/user-attachments/assets/668dad30-fdcb-48df-a6ca-c5e29b1f2f79" alt="composeCalendar2" width="400"  />
+
+
 ## Preface
 A Google Calendar clone, featuring Firebase authentication, event saving to Firestore database, and local notifications for events! <br>
 For GoogleCalendarLite 1.0 XML version , [click here!](https://github.com/eaglenguyen/GoogleCalendarLite) <br>
@@ -18,4 +22,3 @@ For GoogleCalendarLite 1.0 XML version , [click here!](https://github.com/eaglen
 * Firebase Firestore: For storing events.
 * AlarmManager: For scheduling local notifications.
 
-## Quick Look
