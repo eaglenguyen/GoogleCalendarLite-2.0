@@ -2,7 +2,7 @@
 
 ## Preface
 A Google Calendar clone, featuring Firebase authentication, event saving to Firestore database, and local notifications for events! <br>
-For GoogleCalendarLite 1.0 XML version , click here! <br>
+For GoogleCalendarLite 1.0 XML version , [click here!](https://github.com/eaglenguyen/GoogleCalendarLite) <br>
 
 
 ## Features
