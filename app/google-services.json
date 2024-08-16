@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "998583142201",
+    "project_id": "calendarcompose",
+    "storage_bucket": "calendarcompose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998583142201:android:0993706413036c9a8ecae8",
+        "android_client_info": {
+          "package_name": "com.example.calendarcompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNI6FPiOTz_tIsEhdBHUIo3pIW8SyEIY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
