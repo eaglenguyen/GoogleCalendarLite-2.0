@@ -1,5 +1,11 @@
 # GoogleCalendarLite 2.0
 
+<p align="center">
+
+<img src="https://github.com/user-attachments/assets/4cc8aed7-e2d0-44da-b85b-b8e72fe93772" alt="googIcon" width="500" />
+
+</p>
+
 ## Quick Look
 <img src="https://github.com/user-attachments/assets/668dad30-fdcb-48df-a6ca-c5e29b1f2f79" alt="composeCalendar2" width="400"  />
 
