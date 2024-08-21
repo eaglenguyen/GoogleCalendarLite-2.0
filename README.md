@@ -1,4 +1,4 @@
-# GoogleCalendarLite 2.0
+# GoogleCalendarLite-Compose (2.0)
 
 <p align="center">
 
@@ -27,4 +27,9 @@ For GoogleCalendarLite 1.0 XML version , [click here!](https://github.com/eaglen
 * Firebase Authentication: For creating and logging in accounts.
 * Firebase Firestore: For storing events.
 * AlarmManager: For scheduling local notifications.
+
+## Contributing
+Contributions are welcome! If you find any bugs or want to suggest improvements, please open an issue or submit a pull request.
+
+
 
