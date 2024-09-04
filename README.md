@@ -7,7 +7,9 @@
 </p>
 
 ## Quick Look
-<img src="https://github.com/user-attachments/assets/668dad30-fdcb-48df-a6ca-c5e29b1f2f79" alt="composeCalendar2" width="400"  />
+<img src="https://github.com/user-attachments/assets/d034a9de-59f0-4c0f-9695-669ed8d303da" alt="composeCalendar2" width="400"  />
+
+
 
 
 ## Preface
