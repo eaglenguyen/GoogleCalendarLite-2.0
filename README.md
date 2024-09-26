@@ -1,4 +1,4 @@
-# GoogleCalendarLite-Compose (2.0)
+# GoogleCalendar-Compose (2.0)
 
 <p align="center">
 
