@@ -25,7 +25,7 @@ For GoogleCalendarLite 1.0 XML version , [click here!](https://github.com/eaglen
 
 ## Technologies Used
 * Jetpack Compose: Used for designing the user interface.
-* Clean Architecture/MVVMV: Ensuring a maintainable and scalable codebase by separating concerns.
+* Clean Architecture/MVVM: Ensuring a maintainable and scalable codebase by separating concerns.
 * Firebase Authentication: For creating and logging in accounts.
 * Firebase Firestore: For storing events.
 * AlarmManager: For scheduling local notifications.
