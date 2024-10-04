@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">  
-📆 Google Calendar Lite Compose demonstrates modern Android development with Jetpack Compose, Hilt, Coroutines, Flow, Jetpack (Room, ViewModel), and Material Design based on MVVM architecture.
+📆 Google Calendar Lite Compose demonstrates modern Android development with Jetpack Compose, Hilt, Coroutines, Flow, Jetpack (ViewModel), and Material Design based on MVVM architecture.
 </p>
 
 
