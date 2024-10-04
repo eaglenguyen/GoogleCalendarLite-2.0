@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">  
-📆 Google Calendar Lite Compose demonstrates modern Android development with Jetpack Compose, Hilt, Coroutines, Flow, Jetpack (ViewModel), and Material Design based on MVVM architecture.
+📆 Google Calendar Lite Compose demonstrates modern Android development with Jetpack Compose, Hilt, Coroutines, Flow, Jetpack (ViewModel), Firebase Authentication, Firestore database, and Material Design based on MVVM architecture.
 </p>
 
 
@@ -23,6 +23,8 @@
 <img src="https://github.com/user-attachments/assets/d034a9de-59f0-4c0f-9695-669ed8d303da" alt="composeCalendar2" width="400"  />
 
 
+## Download
+Go to the [Releases](https://github.com/eaglenguyen/GoogleCalendarLite-2.0/releases/) to download the latest APK.
 
 
 ## Preface
