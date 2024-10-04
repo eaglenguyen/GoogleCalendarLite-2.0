@@ -1,9 +1,21 @@
-# GoogleCalendar-Compose (2.0)
+<h1 align="center">GoogleCalendarLite 2.0</h1>
 
 <p align="center">
+  <a href="https://android-arsenal.com/api?level=21"><img alt="API" src="https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat"/></a>
+  <a href="https://github.com/skydoves/pokedex-compose/actions"><img alt="Build Status" src="https://github.com/skydoves/pokedex-compose/workflows/Android%20CI/badge.svg"/></a> <br>
+</p>
 
+<p align="center">  
+📆 Google Calendar Lite Compose demonstrates modern Android development with Jetpack Compose, Hilt, Coroutines, Flow, Jetpack (Room, ViewModel), and Material Design based on MVVM architecture.
+</p>
+
+
+> [!TIP]
+> If you want to see the XML version of the Calendar, check out the [Calendar](https://github.com/eaglenguyen/GoogleCalendarLite) repository.
+
+
+<p align="center">
 <img src="https://github.com/user-attachments/assets/4cc8aed7-e2d0-44da-b85b-b8e72fe93772" alt="googIcon" width="500" />
-
 </p>
 
 ## Quick Look
