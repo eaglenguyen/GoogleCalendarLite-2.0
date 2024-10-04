@@ -10,12 +10,13 @@
 </p>
 
 
+
 > [!TIP]
 > If you want to see the XML version of the Calendar, check out the [Calendar](https://github.com/eaglenguyen/GoogleCalendarLite) repository.
 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/4cc8aed7-e2d0-44da-b85b-b8e72fe93772" alt="googIcon" width="500" />
+<img src="https://github.com/user-attachments/assets/fd21853c-941d-4aa1-aeec-87bb3c46b8c8" alt="googIcon"/>
 </p>
 
 ## Quick Look
