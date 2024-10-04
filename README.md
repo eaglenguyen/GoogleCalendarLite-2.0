@@ -38,6 +38,7 @@ A Google Calendar clone, featuring Firebase authentication, event saving to Fire
 * Local Notifications: Get notified about your events through local notifications.
 
 ## Technologies Used
+* [Kotlin](https://kotlinlang.org/) based, utilizing [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) + [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/) for asynchronous operations.
 * Jetpack Compose: Used for designing the user interface.
 * Clean Architecture/MVVM: Ensuring a maintainable and scalable codebase by separating concerns.
 * Firebase Authentication: For creating and logging in accounts.
