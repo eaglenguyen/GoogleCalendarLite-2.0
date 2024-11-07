@@ -51,8 +51,6 @@ fun SharedTransitionScope.WelcomeScreen(
     var isButtonClicked by remember { mutableStateOf(false) }
 
 
-
-
         Column(
             modifier = Modifier
                 .fillMaxSize()
@@ -89,7 +87,10 @@ fun SharedTransitionScope.WelcomeScreen(
                         onClick = {
                             createAcct()
                         }) {
-                        Text("SIGN UP")
+                        Text(
+                            text = "SIGN UP",
+                            color = Color.White
+                        )
                     }
                     Button(
                         modifier = Modifier.sharedBounds(
@@ -104,7 +105,10 @@ fun SharedTransitionScope.WelcomeScreen(
                             isButtonClicked = true
                             loginScreen()
                         }) {
-                        Text("LOGIN")
+                        Text(
+                            text = "LOGIN",
+                            color = Color.White
+                        )
                     }
 
                 }

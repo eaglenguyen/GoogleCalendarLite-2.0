@@ -75,10 +75,6 @@ fun SharedTransitionScope.LoginScreen(
     var showLogoutMessage by remember { mutableStateOf(state.signOut) }
 
 
-
-
-
-
     Scaffold(
         modifier = Modifier,
         topBar = {
@@ -256,7 +252,7 @@ fun SharedTransitionScope.LoginScreen(
                 LaunchedEffect(state.signOut) {
                     if (state.signOut) {
                         showLogoutMessage = true
-                        delay(6000)
+                        delay(10000)
                         showLogoutMessage = false
                     }
                 }

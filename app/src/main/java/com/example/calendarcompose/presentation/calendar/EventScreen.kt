@@ -235,7 +235,7 @@ fun EventScreen(
                             horizontalArrangement = Arrangement.SpaceBetween,
                             verticalAlignment = Alignment.CenterVertically
                         ) {
-                            Text(text = "Edit Event/Task")
+                            Text(text = "Edit Task")
                             IconButton(onClick = {
                                 selectedEvent?.let { viewModel.delete(currentUserId, it) }
                                 focusManager.clearFocus()
@@ -256,7 +256,7 @@ fun EventScreen(
                             TextField(
                                 value = inputText,
                                 onValueChange = { inputText = it },
-                                label = { Text("Enter new event/task name:") }
+                                label = { Text("Enter new event:") }
 
                             )
                         }

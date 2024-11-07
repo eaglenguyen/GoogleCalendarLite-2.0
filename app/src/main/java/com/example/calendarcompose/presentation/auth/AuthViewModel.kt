@@ -25,7 +25,7 @@ import javax.inject.Inject
 class AuthViewModel @Inject constructor(
     private val repository: RepoAuth
 ): ViewModel() {
-    //    var state by mutableStateOf(SignInState()) <-- non observable , failed to recompose UI after change
+    // var state by mutableStateOf(SignInState()) <-- non observable , failed to recompose UI after change
 
 
 
@@ -56,6 +56,7 @@ class AuthViewModel @Inject constructor(
             is LoginEvent.PasswordQueryChange -> {
                 _state.value = _state.value.copy(passwordQuery = event.query)
             }
+
         }
     }
 
@@ -83,7 +84,9 @@ class AuthViewModel @Inject constructor(
                             user = user,
                             isSignInSuccessful = true,
                             signOut = false,
-                            isLoading = false
+                            isLoading = false,
+                            emailQuery = "",
+                            passwordQuery = ""
                         )
 
                     }

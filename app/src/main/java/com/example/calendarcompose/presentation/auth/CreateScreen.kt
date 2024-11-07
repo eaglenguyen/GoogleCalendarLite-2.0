@@ -149,6 +149,7 @@ fun SharedTransitionScope.CreateScreen(
                                 animatedVisibilityScope = animatedVisibilityScope
                         ),
                         shape = RoundedCornerShape(12.dp),
+
                         onClick = {
                         if (state.emailQuery.isEmpty()) {
                             emailError = true

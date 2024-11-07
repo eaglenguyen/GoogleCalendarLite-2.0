@@ -58,8 +58,12 @@ fun NavGraph(
                     navController.navigateUp()
                 }, onClick = {
                     navController.navigate(CalendarScreen)
-                })
+                },
+                    viewModel = viewModel
+                )
             }
+
+
             composable<ForgetScreen>{
                 ForgotPasswordScreen(
                     goBack = {
@@ -68,7 +72,8 @@ fun NavGraph(
                 )
             }
 
-            composable<LoginScreen> { backStackEntry ->
+
+            composable<LoginScreen> {
                 LoginScreen(
                     animatedVisibilityScope = this@composable,
                     click = {
@@ -79,18 +84,20 @@ fun NavGraph(
                     },
                     forgotPassword = {
                         navController.navigate(ForgetScreen)
-                    }
+                    },
+                    viewModel = viewModel
                 )
             }
 
 
-            composable<CalendarScreen> {
+            composable<CalendarScreen> { backStackEntry ->
                 CalendarScreen(
                     onPress = {
                         navController.navigate(EventScreen(it))
                     }, onSignOut = {
                         navController.navigate(WelcomeScreen)
-                    }
+                    },
+                    viewModel = viewModel
                 )
             }
 
